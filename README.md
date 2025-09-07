@@ -22,7 +22,7 @@ Our goal:
 ---
 
  2. Labeling
-- We simulated a **200-paper labeled set
+- We simulated a 200-paper labeled set
 - Papers were labeled `1` if about RL, `0` otherwise.
 - Labels were auto-generated for the demo using keyword matching (can be replaced with real manual labels).
 
