@@ -41,8 +41,8 @@ Our goal:
    - Confidence Interval (CI) via standard binomial formula.
 
 2. Prediction-Powered Inference (PPI)
-   - Uses the mean predicted probability** across all papers.
-   - Corrects for model bias using the **residuals on the labeled set.
+   - Uses the mean predicted probability across all papers.
+   - Corrects for model bias using the residuals on the labeled set.
    - Produces a valid 95% CI that is often narrower than the classical CI.
 
 ---
